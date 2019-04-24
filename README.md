@@ -6,19 +6,25 @@
 <br>
 
 ### 2019-04-10 (2)
-##### keras, (Edwith) Bayesian Deep Learning, Algorithm
+##### keras
+##### (Edwith) Bayesian Deep Learning
+##### Algorithm
 <br>
 
 ### 2019-04-11 (3)
-##### keras, (Edwith) Bayesian Deep Learning, Algorithm
+##### keras
+##### (Edwith) Bayesian Deep Learning
+##### Algorithm
 <br>
 
 ### 2019-04-12 (4)
-##### keras, (Edwith) Bayesian Deep Learning
+##### keras
+##### (Edwith) Bayesian Deep Learning
 <br>
 
 ### 2019-04-15 (5)
-##### keras, pandas
+##### keras
+##### pandas
 <br>
 
 ### 2019-04-16 (6)
@@ -34,10 +40,14 @@
 <br>
 
 ### 2019-04-22 (9)
-##### (Cousera) Deep Learning Specialization, (Edwith) Bayesian Deep Learning, 밑시딥
+##### (Cousera) Deep Learning Specialization
+##### (Edwith) Bayesian Deep Learning
 <br>
 
 ### 2019-04-23 (10)
-##### BERT
+##### keras
+##### 밑시딥
 <br>
 
+### 2019-04-25 (11)
+##### 
